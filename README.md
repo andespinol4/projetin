@@ -24,3 +24,18 @@ git clone [https://github.com/andespinol4/projetin.git](https://github.com/andes
 
 # Entrar na pasta
 cd projetin
+# projetin
+
+Projeto simples para demonstrar o uso básico do
+Git.
+
+## Arquivos
+
+- README.md
+
+- index.html
+
+- style.css
+
+- script.js
+main
